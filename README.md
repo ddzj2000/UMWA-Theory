@@ -30,3 +30,6 @@ ZongQianQuan (Independent Researcher)
   howpublished={GitHub},
   url={https://github.com/ddzj2000/UMWA-Theory}
 }
+
+### 许可证
+本作品采用 [CC BY 4.0](LICENSE) 许可证发布。
