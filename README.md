@@ -28,7 +28,7 @@ ZongQianQuan (Independent Researcher)
   author={ZongQianQuan},
   year={2026},
   howpublished={GitHub},
-  url={https://github.com/ddzj2000/UMWA-Theory}
+  url={10.5281/zenodo.20546792}
 }
 
 ### 许可证
