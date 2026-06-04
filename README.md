@@ -2,7 +2,7 @@
 ## Updatable Meta-Weights Architecture: A Unified Path from Probabilistic Correlation to General Intelligence
 
 ### 作者
-ZongQianQuan (Independent Researcher)
+ZongqianQuan (Independent Researcher)
 
 ### 摘要
 本文提出了一种全新的智能理论框架——可更新元权重架构(UMWA)，将智能定义为经验基础网络(概率关联)与元规则校验层(高优先级约束)之间的协同运作。UMWA不将物理定律和逻辑公理视为外部符号规则，而是将其编码为同一参数空间中的高权重、高优先级参数——元权重，从而弥合了联结主义与符号主义之间的鸿沟。
