@@ -28,7 +28,7 @@ ZongqianQuan (Independent Researcher)
   author={ZongQianQuan},
   year={2026},
   howpublished={GitHub},
-  url={10.5281/zenodo.20546792}
+  url={10.5281/zenodo.20549783}
 }
 
 ### 许可证
